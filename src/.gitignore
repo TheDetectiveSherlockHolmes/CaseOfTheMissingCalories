@@ -13,6 +13,4 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Do NOT upload your real DB config
 config.py
